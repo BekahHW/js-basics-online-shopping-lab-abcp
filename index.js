@@ -31,7 +31,7 @@ else {
     
   }
      
-  console.log(`In your cart, you have ${cartStr}.`);
+  console.log(`In your cart, you have ${cartStr}`);
 }
 }
 
